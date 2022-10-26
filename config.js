@@ -16,11 +16,11 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['62895604670507']
-global.ownernomer = "62895604670507"
-global.premium = ['62895604670507','6281328144300']
-global.packname = 'Zenss'
-global.author = 'Cuyy'
+global.owner = ['6281271010619']
+global.ownernomer = "6281271010619"
+global.premium = ['6281271010619']
+global.packname = '𝒄𝒓𝒆𝒂𝒕𝒆𝒅 𝒃𝒚'
+global.author = '「𝑺𝒉𝒖𝒓𝒂𝒏𝑩𝑶𝑻𝒁 」'
 global.sessionName = 'zenss'
 global.prefa = ['','!','.','#','&']
 global.sp = ''
@@ -38,7 +38,7 @@ global.mess = {
 }
 global.limitawal = {
     premium: "Infinity",
-    free: 25
+    free: 250
 }
 global.thumb = fs.readFileSync('./image/zens.jpg')
 global.vaze = { url: 'https://telegra.ph/file/15209657f9d4f59c7ca1e.mp4' }
